@@ -1,0 +1,10 @@
+product_id, product_name, category, price
+1, "Laptop", "Electronics", 999.99
+2, "Smartphone", "Electronics", 699.99
+3, "Desk Chair", "Furniture", 89.99
+4, "Bookcase", "Furniture", 129.99
+5, "Headphones", "Electronics", 199.99
+6, "Coffee Table", "Furniture", 149.99
+7, "Monitor", "Electronics", 249.99
+8, "Sofa", "Furniture", 499.99
+9, "Tablet", "Electronics", 399.99
